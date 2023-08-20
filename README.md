@@ -22,7 +22,7 @@ This is an emoji dictionary that helps in knowing what emojis actually mean.
 
 ## What have I learned?
 - mapping data to components,
-- <dl>: The Description List element.
+- < dl >: The Description List element.
 
 <br>
 <br>
